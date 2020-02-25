@@ -1,0 +1,12 @@
+main.c:17:6:Usart_Puts	16	static
+main.c:29:6:map	24	static
+main.c:34:6:I2C1_Config	32	static
+main.c:64:7:I2C_start	16	static
+main.c:86:6:I2C_write	16	static
+main.c:92:9:I2C_Read_Ack	24	static
+main.c:100:9:I2C_read_nack	24	static
+main.c:109:6:I2C_stop	16	static
+main.c:115:6:GPIO_Config	32	static
+main.c:151:5:main	16	static
+main.c:249:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:258:10:EVAL_AUDIO_GetSampleCallBack	4	static
